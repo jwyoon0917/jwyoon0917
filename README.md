@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hi%20There&section=header&textBg=false&fontAlign=50&animation=fadeIn&reversal=true
+
 ### Hi there 👋
 
 <!--
