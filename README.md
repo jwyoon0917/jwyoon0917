@@ -18,7 +18,6 @@
                     <img src="https://img.shields.io/badge/python-F4D03F.svg?&style=for-the-badge&logo=python&logoColor=black" alt="Python">
                     <img src="https://img.shields.io/badge/django-0D7963.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django">
                     <img src="https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-                    <br>
                     <img src="https://img.shields.io/badge/Elastic-EF5098.svg?&style=for-the-badge&logo=Elastic&logoColor=white" alt="Elastic">
                     <img src="https://img.shields.io/badge/Kibana-15A2D9.svg?&style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana">
                 </div>
@@ -29,16 +28,12 @@
                 <!-- Skills -->
                 <div align="left">
                     <h3>🦾 Skills</h3>
-                    <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
-                    <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-                    <img src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-                    <img src="https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab">
-                    <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-                    <br>
-                    <img src="https://img.shields.io/badge/pycharm-FFD43B.svg?&style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm">
-                    <img src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
-                    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse">
-                    <img src="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+                    <img src="https://img.shields.io/badge/java-FF5733.svg?&style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+                    <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+                    <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+                    <img src="https://img.shields.io/badge/python-F4D03F.svg?&style=for-the-badge&logo=python&logoColor=black" alt="Python">
+                    <img src="https://img.shields.io/badge/django-0D7963.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django">
+                    <img src="https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
                 </div>
             </td>
         </tr>
@@ -52,7 +47,6 @@
                     <img src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
                     <img src="https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab">
                     <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-                    <br>
                     <img src="https://img.shields.io/badge/pycharm-FFD43B.svg?&style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm">
                     <img src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
                     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse">
