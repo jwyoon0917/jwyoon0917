@@ -40,9 +40,11 @@
 
 
 ### 🌱 Language and Grade
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyoon0917&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwyoon0917&show_icons=true&theme=radical)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=moon15d)](https://solved.ac/profile/moon15d)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwyoon0917&layout=compact)](https://github.com/jwyoon0917/github-readme-stats)
 
 <!--
 **jwyoon0917/jwyoon0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
